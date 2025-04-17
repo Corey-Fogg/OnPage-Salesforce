@@ -1,4 +1,4 @@
-public class SendOnPagePageFlowAction {
+public class OnPageSendPageFlowAction {
     public class Input {
         @InvocableVariable(required=true) public Id recordId;
         @InvocableVariable(required=true) public String recipientId;
