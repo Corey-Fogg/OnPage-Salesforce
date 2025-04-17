@@ -1,4 +1,4 @@
-public class AddOnPageReplyFlowAction {
+public class OnPageAddReplyFlowAction {
     public class Output {
         @InvocableVariable public String status;
     }
